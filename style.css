@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'myfont';
+  src: url('./font/Helvetica-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'myfont2';
+  src: url('./font/ACaslonPro-Semibold.woff') format('woff');
+}
+/* h1見出しのフォント指定 */
+body {
+    font-size: 25px ;
+    font-family: 'myfont2' ;
+}
+.font_test {
+    font-size: 23px ;
+    color: #F44336;     /* 文字色指定 */
+    font-family: 'myfont' ; 
+}
