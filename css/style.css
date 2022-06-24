@@ -16,3 +16,7 @@ body {
     color: #F44336;     /* 文字色指定 */
     font-family: 'myfont' ; 
 }
+body {
+   margin: 150px;
+   padding: 0;
+}
