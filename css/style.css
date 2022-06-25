@@ -8,7 +8,8 @@
 }
 /* h1見出しのフォント指定 */
 body {
-    font-size: 25px ;
+    font-size: 26px ;
+    color: #313a45;
     font-family: 'myfont2' ;
 }
 .font_test {
@@ -17,6 +18,12 @@ body {
     font-family: 'myfont' ; 
 }
 body {
-   margin: 150px;
-   padding: 0;
+   margin: 0px;
+   padding: 20px 100px 20px 100px;
+}
+h1 {
+   margin: 0px;
+   padding: 50px 0px 5px 5px;
+   font-size: 32px ;
+   font-family: 'myfont' ; 
 }
